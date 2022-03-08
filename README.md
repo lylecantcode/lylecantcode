@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lylecantcode
+- 👀 I’m interested in developing my skills as a programmer!
+- 🌱 I’m currently learning CS50x and GO
